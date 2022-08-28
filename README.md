@@ -27,6 +27,16 @@ The perceptron consists of 4 parts.
 <img width="628" alt="image" src="https://user-images.githubusercontent.com/60778119/186698324-87042839-f49e-40f7-9675-1c48c0289dcf.png">
 
 
+
+## Features
+
+- Display a random synthetic data set
+- Display the geomertic linear seperator found by the perceptron algorithm, based on the synthetic data set created randomly
+- Adjust the learning rate & number of epochs.
+
+
+
+
 ## Authors
 
 - [@ItayKarat](https://github.com/itaykarat)
@@ -41,10 +51,4 @@ The perceptron consists of 4 parts.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-
-## Features
-
-- Display a random synthetic data set
-- Display the geomertic linear seperator found by the perceptron algorithm, based on the synthetic data set created randomly
-- Adjust the learning rate & number of epochs.
 
