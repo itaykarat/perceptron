@@ -1,5 +1,5 @@
 
-# Perceptron
+# Perceptron with GUI
 Perceptron is a single layer neural network. 
 
 
